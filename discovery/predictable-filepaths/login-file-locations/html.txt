@@ -12,6 +12,7 @@ admin/home.html
 admin/controlpanel.html
 admin/controlpanel.htm
 admin/cp.html
+admin/index.html
 admin/adminLogin.html
 admin/adminLogin.htm
 admin/admin_login.html
